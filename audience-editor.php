@@ -12,6 +12,7 @@
         insertHead();
     ?>
 
+    
 </head>
 
 <body>
